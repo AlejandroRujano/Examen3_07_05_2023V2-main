@@ -1,0 +1,26 @@
+[
+  {
+    "NombreUsuario": "AdminS",
+    "Nombre": "Acceso Especial",
+    "Apellido": "Desconocido",
+    "Cedula": "00000000",
+    "Clave": "MiLider",
+    "Cargo": "Administrador"
+  },
+  {
+    "NombreUsuario": "Admin",
+    "Nombre": "Desconocido",
+    "Apellido": "Desconocido",
+    "Cedula": "00000000",
+    "Clave": "a",
+    "Cargo": "Administrador"
+  },
+  {
+    "NombreUsuario": "29705414",
+    "Nombre": "Juan",
+    "Apellido": "Montoya",
+    "Cedula": "29705414",
+    "Clave": "29705414",
+    "Cargo": "Empleado"
+  }
+]

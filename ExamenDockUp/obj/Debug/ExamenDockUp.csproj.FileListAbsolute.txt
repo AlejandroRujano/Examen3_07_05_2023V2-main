@@ -1,0 +1,1033 @@
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\aleja\Downloads\Examen2_12_04_2023-main\Examen2_12_04_2023-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-2-Alpha-main\ExamenDockUp\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen\Examen2_14_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\gipso\source\repos\-Gestion-de-Productos-1.3-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\aleja\Downloads\Examen Sabado\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen-15-04-2023-main\GestionDeProductos1.3\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\gipso\source\repos\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Examen2-16-04-23-main\Examen2V2_15_04_2023-FRAN\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen2-17-04-23\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\aleja\Downloads\Examen2V3\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen-2V3-main\Examen2V3_17_04_2023\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\aleja\Source\Repos\Examen2V2_17_04_2023-main\Examen2V2_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\BETA\Examen2V3.3_17_04_2023-main\Examen2V3.3_17_04_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\luisa\source\repos\YACASI-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\FINAL-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen2COMENTADO-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen2            25 04 2023\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\libSkiaSharp.dylib
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\QuestPDF.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\System.Buffers.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\System.Memory.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\System.Buffers.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\System.Memory.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen2-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\libSkiaSharp.dylib
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\QuestPDF.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\System.Buffers.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\System.Memory.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\System.Buffers.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\System.Memory.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\Examen3-25-04-2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\libSkiaSharp.dylib
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\QuestPDF.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\SkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\System.Buffers.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\System.Memory.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\SkiaSharp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\SkiaSharp.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\System.Buffers.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\System.Memory.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIO\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\1REPOSITORIOsinGuestPDF\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\examen 3 01 05 2023\Examen3_01_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\gipso\source\repos\Examen3.2-01-05-2023\Examen 3 01 05 23 main2\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\Examen 3 02 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-03-05-2023--mainAmando\Examen 3 03 05 23\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\luisa\source\repos\Examen3_04_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_04_05_2023-mainLuis\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\USUARIO\Desktop\nuevo 05 05 23\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\libSkiaSharp.dylib
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\QuestPDF.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\SkiaSharp.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\System.Buffers.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\System.Memory.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\QuestPDF.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\SkiaSharp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\SkiaSharp.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\System.Buffers.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\System.Memory.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3-05-05-23-ORDERBY-main\Examen3_05_05_2023Orderby\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\Examen3_grupo2\Examen3_Grupo2\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe.config
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\ExamenDockUp.exe
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.AssemblyReference.cache
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.ResolveComReference.cache
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarCliente.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormAgregarProducto.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormAgregarVendedor.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.frmEditarProducto.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosClientes.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\DatosEmpresa.FormGestionDatosEmpresa.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormCambiarDatosUsuario.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormFactura.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\borrador.FormGestionDeProductos.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormLogin.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormMain.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.FormOpcionesSuperAdmin.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\Vender_Bosquejo_2.FormVender.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.Properties.Resources.resources
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.GenerateResource.cache
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.csproj.CopyComplete
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.exe
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\obj\Debug\ExamenDockUp.pdb
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\libSkiaSharp.dylib
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\HarfBuzzSharp.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\QuestPDF.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\SkiaSharp.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\System.Buffers.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\System.Memory.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\HarfBuzzSharp.xml
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\QuestPDF.xml
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\SkiaSharp.pdb
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\SkiaSharp.xml
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\System.Buffers.xml
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\System.Memory.xml
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aleja\Source\Repos\Examen3_07_05_2023V2-main\Examen3_07_05_2023V2-main\ExamenDockUp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

@@ -1,0 +1,9 @@
+codigo;nombre;descripcion;precio;cantidad
+1;Laptop;Marca:Lenovo ,Capacidad:500 GB ,Color: negra;250;23
+2;Celular;Marca:Redmi9A ,Capacidad: 125 GB ,Color: azul;120;12
+3;Impresora;Marca:hp, Color:Negra ;100;15
+4;Calculadora;Marca: Casio ,Color:Gris;15;20
+5;Disco Duro ;Marca: KinDong ,Capacidad:250 GB;89;40
+6;Monitor;Marca:Dell , Color :Negro ;50;12
+7;Teclado;Teclado de Computador , Marca:Dell , Color:Negro;15;12
+8;Mouse ;Marca:Wash , Color:Negro ;8;12

@@ -1,0 +1,32 @@
+[
+  {
+    "Nombre": "Luis",
+    "Apellido": "Galindez",
+    "NumeroDeTlf": "04245468922",
+    "Cedula": "V10548326"
+  },
+  {
+    "Nombre": "Francisco",
+    "Apellido": "Ochoa",
+    "NumeroDeTlf": "04163358929",
+    "Cedula": "V20144255"
+  },
+  {
+    "Nombre": "Alejandro",
+    "Apellido": "Brimstone",
+    "NumeroDeTlf": "04122335577",
+    "Cedula": "J25166332"
+  },
+  {
+    "Nombre": "Gipsander",
+    "Apellido": "Neon",
+    "NumeroDeTlf": "04242589630",
+    "Cedula": "V30111023"
+  },
+  {
+    "Nombre": "Amando",
+    "Apellido": "Mozart",
+    "NumeroDeTlf": "04240022331",
+    "Cedula": "J27589666"
+  }
+]

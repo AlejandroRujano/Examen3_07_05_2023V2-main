@@ -1,0 +1,55 @@
+[
+  {
+    "Numero": "00001",
+    "DatosEmpresa": [
+      "TuProductoOnline",
+      "TuProductoOnline@gmail.com",
+      "J7483123",
+      "Los Proceres",
+      "C:\\Users\\aleja\\Desktop"
+    ],
+    "Vendedor": [
+      "Juan",
+      "Montoya",
+      "29705414"
+    ],
+    "Fecha": "Fecha de Emision:  7/5/2023",
+    "Compras": [
+      {
+        "Cantidad": 5,
+        "Disponible": true,
+        "Eliminado": false,
+        "Descripcion": "Marca: KinDong ,Capacidad:250 GB",
+        "Precio": 89.0,
+        "Nombre": "Disco Duro ",
+        "Codigo": "00005"
+      },
+      {
+        "Cantidad": 11,
+        "Disponible": true,
+        "Eliminado": false,
+        "Descripcion": "Marca:hp, Color:Negra ",
+        "Precio": 100.0,
+        "Nombre": "Impresora",
+        "Codigo": "00003"
+      },
+      {
+        "Cantidad": 3,
+        "Disponible": true,
+        "Eliminado": false,
+        "Descripcion": "Marca:Wash , Color:Negro ",
+        "Precio": 8.0,
+        "Nombre": "Mouse ",
+        "Codigo": "00008"
+      }
+    ],
+    "Cliente": {
+      "Nombre": "Luis",
+      "Apellido": "Galindez",
+      "NumeroDeTlf": "04245468922",
+      "Cedula": "V10548326"
+    },
+    "Total": 1820.04,
+    "Impuesto": 251.04
+  }
+]

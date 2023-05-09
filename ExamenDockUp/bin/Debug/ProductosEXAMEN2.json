@@ -1,0 +1,83 @@
+[
+  {
+    "Cantidad": 23,
+    "Disponible": true,
+    "Eliminado": false,
+    "Descripcion": "Marca:Lenovo ,Capacidad:500 GB ,Color: negra",
+    "Precio": 250.0,
+    "Nombre": "Laptop",
+    "Codigo": "00001"
+  },
+  {
+    "Cantidad": 12,
+    "Disponible": true,
+    "Eliminado": false,
+    "Descripcion": "Marca:Redmi9A ,Capacidad: 125 GB ,Color: azul",
+    "Precio": 120.0,
+    "Nombre": "Celular",
+    "Codigo": "00002"
+  },
+  {
+    "Cantidad": 4,
+    "Disponible": true,
+    "Eliminado": false,
+    "Descripcion": "Marca:hp, Color:Negra ",
+    "Precio": 100.0,
+    "Nombre": "Impresora",
+    "Codigo": "00003"
+  },
+  {
+    "Cantidad": 20,
+    "Disponible": true,
+    "Eliminado": false,
+    "Descripcion": "Marca: Casio ,Color:Gris",
+    "Precio": 15.0,
+    "Nombre": "Calculadora",
+    "Codigo": "00004"
+  },
+  {
+    "Cantidad": 35,
+    "Disponible": true,
+    "Eliminado": false,
+    "Descripcion": "Marca: KinDong ,Capacidad:250 GB",
+    "Precio": 89.0,
+    "Nombre": "Disco Duro ",
+    "Codigo": "00005"
+  },
+  {
+    "Cantidad": 12,
+    "Disponible": true,
+    "Eliminado": false,
+    "Descripcion": "Marca:Dell , Color :Negro ",
+    "Precio": 50.0,
+    "Nombre": "Monitor",
+    "Codigo": "00006"
+  },
+  {
+    "Cantidad": 12,
+    "Disponible": true,
+    "Eliminado": false,
+    "Descripcion": "Teclado de Computador , Marca:Dell , Color:Negro",
+    "Precio": 15.0,
+    "Nombre": "Teclado",
+    "Codigo": "00007"
+  },
+  {
+    "Cantidad": 9,
+    "Disponible": true,
+    "Eliminado": false,
+    "Descripcion": "Marca:Wash , Color:Negro ",
+    "Precio": 8.0,
+    "Nombre": "Mouse ",
+    "Codigo": "00008"
+  },
+  {
+    "Cantidad": 23,
+    "Disponible": true,
+    "Eliminado": false,
+    "Descripcion": "Marca: optel, Color: Transparente",
+    "Precio": 49.99,
+    "Nombre": "Licuadora",
+    "Codigo": "00009"
+  }
+]
